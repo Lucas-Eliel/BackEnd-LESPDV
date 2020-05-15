@@ -1,0 +1,1 @@
+{"serial":"5555256","ip":"localhost","porta":"5432","nomeBase":"agrodel","usuario":"postgres","senha":"postgres"}
